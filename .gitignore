@@ -1,0 +1,17 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# macOS system files
+.DS_Store
+.MACOSX/
+
+# Virtual environment
+venv/
+
+# Environment variable files
+.env
+
+# Render build artifacts
+build/
